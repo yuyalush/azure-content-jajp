@@ -52,7 +52,7 @@ Azure VM の監視を有効にするには:
 
 [Azure.Note] 使用可能な場合は、バージョン 2.0 からそれより後のバージョンに変更できます。
 
-監視メトリックの構成の詳細とサンプルについては、「[Linux の診断拡張機能を使用して Linux VM のパフォーマンスと診断データを監視する](virtual-machines-linux-diagnostic-extension/)」を参照してください。
+監視メトリックの構成の詳細とサンプルについては、「[Linux の診断拡張機能を使用して Linux VM のパフォーマンスと診断データを監視する](virtual-machines-linux-classic-diagnostic-extension/)」を参照してください。
 
 <!--Image references-->
 [1]: ./media/virtual-machines-linux-vm-monitoring/portal-enable-disable.png
